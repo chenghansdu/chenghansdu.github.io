@@ -1,5 +1,8 @@
 ---
 layout: default
+title: About Me
+lang: en
+translation_url: /zh.html
 ---
 
 ## About Me
@@ -24,25 +27,4 @@ I am interested in graph neural networks (GNNs), dynamic graph neural networks, 
 
 Outside of research and work, I have several personal interests. I am particularly interested in history and have read a number of books on historical topics. I am also a long-time fan of Paradox Interactive and have played most of their major grand strategy titles, including Europa Universalis III, IV, and V, Crusader Kings II and III, Hearts of Iron IV, Stellaris, Imperator: Rome, and Victoria II and III. In addition, I am a fan of the Kamen Rider tokusatsu series and enjoy collecting henshin belt toys from the franchise.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

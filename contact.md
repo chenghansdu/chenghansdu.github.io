@@ -3,24 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [chenghan@mail.sdu.edu.cn](mailto:chenghan@mail.sdu.edu.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+89-17863117036](tel:+86-17863117036)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Shunhua Road
 >
-> London
+> Jinan
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> China

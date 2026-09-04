@@ -17,16 +17,13 @@ sass:
 
 i18n:
   en:
-    title: "Your Name"
+    title: "Han Cheng"
     home: "/"
     switch_label: "中文"
     switch_lang: "zh-CN"
-    footer_text: "Page design by Ankit Sultana"
+    footer_text: "© 2026 Han Cheng"
 
     nav:
-      - name: "About"
-        link: "/"
-
       - name: "Resume"
         link: "/resume.pdf"
         new_tab: true
@@ -35,16 +32,13 @@ i18n:
         link: "/contact"
 
   zh-CN:
-    title: "你的姓名"
+    title: "程涵"
     home: "/zh.html"
     switch_label: "English"
     switch_lang: "en"
-    footer_text: "页面设计：Ankit Sultana"
+    footer_text: "© 2026 Han Cheng"
 
     nav:
-      - name: "关于我"
-        link: "/zh.html"
-
       - name: "简历"
         link: "/resume.pdf"
         new_tab: true

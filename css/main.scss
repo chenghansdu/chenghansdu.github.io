@@ -22,3 +22,61 @@
         gap: 8px;
     }
 }
+
+/* 页面底色 */
+body {
+    background-color: #faf9f6;
+}
+
+/* 背景装饰：淡色光晕 + 细网格 */
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+
+    background-image:
+        radial-gradient(
+            ellipse at top right,
+            rgba(220, 85, 65, 0.12),
+            transparent 55%
+        ),
+        radial-gradient(
+            ellipse at bottom left,
+            rgba(80, 125, 170, 0.09),
+            transparent 55%
+        ),
+        linear-gradient(
+            rgba(70, 75, 85, 0.035) 1px,
+            transparent 1px
+        ),
+        linear-gradient(
+            90deg,
+            rgba(70, 75, 85, 0.035) 1px,
+            transparent 1px
+        );
+
+    background-size:
+        100% 100%,
+        100% 100%,
+        40px 40px,
+        40px 40px;
+}
+
+/* 内容始终显示在背景上方 */
+.wrapper {
+    position: relative;
+    z-index: 1;
+}
+
+/* 打印时去掉装饰 */
+@media print {
+    body {
+        background: white;
+    }
+
+    body::before {
+        display: none;
+    }
+}

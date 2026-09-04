@@ -7,7 +7,7 @@ translation_url: /contact
 
 * 电子邮箱: [chenghan@mail.sdu.edu.cn](mailto:chenghan@mail.sdu.edu.cn)
 
-* 电话: [+89-17863117036](tel:+86-17863117036)
+* 电话: [+86-17863117036](tel:+86-17863117036)
 
 ---
 

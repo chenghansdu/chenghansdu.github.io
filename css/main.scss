@@ -1,3 +1,24 @@
 ---
 ---
 @import "style";
+
+/* 中英文导航统一对齐 */
+#navlist {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+#navlist li.nav-list {
+    float: none;
+    line-height: 1.5;
+    white-space: nowrap;
+}
+
+/* 保留手机端居中效果 */
+@media (max-width: 500px) {
+    #navlist {
+        justify-content: center;
+        gap: 8px;
+    }
+}

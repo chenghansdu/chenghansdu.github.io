@@ -44,4 +44,4 @@ i18n:
         new_tab: true
 
       - name: "联系"
-        link: "/contact-zh"
+        link: "/contact_zh"

@@ -11,7 +11,7 @@ translation_url: /contact
 
 ---
 
-## 统训地址
+## 通讯地址
 
 > 舜华路
 >
